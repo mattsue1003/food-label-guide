@@ -4,6 +4,7 @@
 
 - 簡報：https://mattsue1003.github.io/food-label-guide/
 - 講師手冊（每頁帶法與答案，可列印）：https://mattsue1003.github.io/food-label-guide/#notes
+- 影片（YouTube Shorts）：https://youtube.com/shorts/PXOJPdiLT90
 - 主題：成分排序、「阿嬤看得懂」原則與添加物、反式脂肪、有效日期
 
 ## 怎麼用
